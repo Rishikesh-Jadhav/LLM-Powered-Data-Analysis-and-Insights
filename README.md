@@ -50,11 +50,11 @@ CSV File
 
 **Upload CSV and Generate Report**
 
-![Screenshot 1 - Upload CSV](PLACEHOLDER_FOR_SCREENSHOT_1)
+![Screenshot 1 - Upload CSV](SS1.png)
 
 **Generated Summary and Download Options**
 
-![Screenshot 2 - Summary and Download](PLACEHOLDER_FOR_SCREENSHOT_2)
+![Screenshot 2 - Summary and Download](SS2.png)
 
 ---
 
