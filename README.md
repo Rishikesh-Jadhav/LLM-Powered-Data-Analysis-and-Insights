@@ -54,6 +54,13 @@ CSV File
 
 ![Screenshot 2 - Summary and Download](SS2.png)
 
+**EDA Plots Example**
+
+![Graph 1 - EDA Plots](graph1.png)
+![Graph 2 - EDA Plots](graph2.png)
+![Graph 3 - EDA Plots](graph3.png)
+![Graph 4 - EDA Plots](graph4.png)
+
 ---
 
 ## Step-by-Step Setup Instructions
