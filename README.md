@@ -1,5 +1,3 @@
-
-
 # Automated Data Insights with LLMs
 
 This project is an **end-to-end data analysis and reporting tool** that:
