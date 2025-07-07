@@ -112,7 +112,7 @@ pip install streamlit pandas matplotlib seaborn fpdf openai python-docx
 4. Click **+ Create new secret key**.
 5. Copy the key.
 
-⚠️ **Important:** Store this key safely. You will use it to authenticate with OpenAI.
+ **Important:** Store this key safely. You will use it to authenticate with OpenAI.
 
 ---
 
