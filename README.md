@@ -150,7 +150,7 @@ response = client.chat.completions.create(
 
 - Keep your sample CSV file size below 200 MB  
 - Use a well-structured CSV for best results (e.g., numeric + categorical columns)  
-- Make sure you're in the same directory as `app.py` before running it  
+- After activating your virtual environment, be sure to navigate to the folder containing **app.py** in your terminal or command prompt before running any commands 
 - When you run `streamlit run app.py`, it will prompt you to log in with your email (or create an account)  
 - Once you click **Generate Report**, wait for 1–2 minutes for processing, especially for larger datasets
 
