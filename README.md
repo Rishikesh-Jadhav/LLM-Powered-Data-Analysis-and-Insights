@@ -44,7 +44,7 @@ CSV File
 
 ---
 
-## User Interface Screenshots
+## User Interface
 
 **Upload CSV and Generate Report**
 
@@ -74,8 +74,6 @@ Follow these steps carefully to set up and run the project on your machine:
 git clone https://github.com/yourusername/automated-data-insights-llms.git
 cd automated-data-insights-llms
 ```
-
-*(Adjust the repo URL if needed)*
 
 ---
 
